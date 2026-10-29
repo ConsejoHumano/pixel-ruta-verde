@@ -9,5 +9,4 @@ Abre `index.html` en el navegador.
 - Enlace de compra en Ecuador (hoy dice «próximamente»).
 - Libro físico en Amazon (hoy solo la versión digital).
 - Logos de los auspiciantes.
-- Nombre completo de la organización «AES» para el crédito del taller.
 - Testimonios reales, con autorización por escrito de cada persona.
